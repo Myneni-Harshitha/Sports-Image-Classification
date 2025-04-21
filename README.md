@@ -80,4 +80,4 @@ This project applies deep learning modelsâ€”VGG16, ResNet50, and EfficientNetB0â
 ## Run app
 
 1. **Open anaconda prompt run**
-   streamlit run app/streamlit_app.py
+  - streamlit run app/streamlit_app.py
